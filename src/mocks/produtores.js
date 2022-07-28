@@ -15,7 +15,7 @@ const produtores = {
         {
             nome: "Green",
             imagem: green,
-            distancia: `${gerarNumeroAleatorio(1, 500)}m`,
+            distancia: `${gerarNumeroAleatorio(1, 500)}`,
             estrelas: gerarNumeroAleatorio(1,5),
         },
         {
